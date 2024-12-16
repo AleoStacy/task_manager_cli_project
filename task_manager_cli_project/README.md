@@ -29,4 +29,4 @@ This project is designed for beginners to practice Python and SQL by creating a 
 ### Setup Instructions
 1. Clone this repository or download the files:
    ```bash
-   git clone <https://github.com/AleoStacy/task_manager_cli_project.git>
+   git clone https://github.com/AleoStacy/task_manager_cli_project.git
